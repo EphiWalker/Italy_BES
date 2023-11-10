@@ -4,7 +4,7 @@
 This project is a data analysis and visualization of Italy's well-being measurement dataset. The main goal was to determine which of the 20 regions in Italy is most suitable for visiting and which one is better for living in for about a year.
 
 ## Data Source
-The data was collected from Istat (Instituto Nazionale di Statistica), the Italian National Statistics Institute, which can be accessed [here](https://www.istat.it/en/well-being-and-sustainability/the-measurement-of-well-being/indicators)
+The data was collected from Istat (Instituto Nazionale di Statistica), the Italian National Statistics Institute, which can be accessed [here](https://www.istat.it/en/well-being-and-sustainability/the-measurement-of-well-being/indicators).
 
 ## Technologies Used
 This project was implemented using Python and Jupyter Notebook. The Python libraries used include Pandas, Seaborn, Matplotlib, and Numpy.
