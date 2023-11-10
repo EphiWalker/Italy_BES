@@ -1,4 +1,4 @@
-# Italy_BES (Italy Well-being Analysis)
+# Italy Well-being Analysis
 
 ## Project Overview
 This project is a data analysis and visualization of Italy's well-being measurement dataset. The main goal was to determine which of the 20 regions in Italy is most suitable for visiting and which one is better for living in for about a year.
